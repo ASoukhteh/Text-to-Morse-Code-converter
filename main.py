@@ -5,5 +5,7 @@ from morse import MorseCode
 
 morse_code = MorseCode()
 
-print(morse_code.encode('sos'))
+print(morse_code.encode('sos help'))
+
+print(morse_code.decode())
 
