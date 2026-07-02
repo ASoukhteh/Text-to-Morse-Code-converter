@@ -91,9 +91,8 @@ import simpleaudio.functionchecks as fc
 fc.LeftRightCheck.run()
 ```
 
-```text
-You should here a piano note from each of your computer speakers.
-```
+
+⚠️ `You should here a piano note from each of your computer speakers.` ⚠️
 
 ----
 
